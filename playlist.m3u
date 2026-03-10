@@ -1,10 +1,18 @@
 #EXTM3U
+===== RUSSIA =====
 #EXTINF:-1 tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="Russia",Carousel
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
 #EXTINF:-1 tvg-name="Russia1" tvg-logo="https://cdn-st4.smotrim.ru/vh/pictures/svg/346/478/7.svg" group-title="Russia",Russia1
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_asia/playlist_4.m3u8?md5=S52NWpgucQ9A3kCjJJCGHA&e=1773170015&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_asia/playlist.m3u8?md5=G1u9MhMOLVaW9W0JXiFdQA&e=1773189605
 #EXTINF:-1 tvg-name="Russia24" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/svg/346/480/1.svg" group-title="",Russia24
 https://vgtrksmotrim.cdnvideo.ru/hls/russia24_int/playlist_3.m3u8?md5=lbUaFQi7kY0AGYP9KadKVw&e=1773170159&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://i.imgur.com/T4A6rEI.png"group-title="Russia",TNT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://edge02r.mediavitrina.ru/dashp-livef8/tnt/index.mpd?token=v2.qz-Ot_QNen7QWgw8tzP8JTl-_NE3vspJQ8CvhBd5Q3U.IQc_GhXTUiri4LypqajuV2EF0Ep8KOzTPg14RDGKrCA.1773775676.c9c7a23c8a11e89dac56573a94508361
+
+
+===== GEORGIA =====
 
 #EXTINF:-1 tvg-name="1TV" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="Georgia",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
@@ -16,4 +24,3 @@ https://tbs01-edge32.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=l4greFguv
 https://tbs01-edge35.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=SKbJZ90l_zZhOVZQKQIxcaNcmwYjM17WKsmjaEx-urNneyVrJqp1HmAEO4Z7Tv1-zUQKjAXPf0y-IQtVxemoZLjeJ3jjLucawoFF_iZhnnMtPCYWBV5yz9khAHqX96LfS_gnS2Af51Vr1UTeBvf4g9phnZnL_6HIcvcNFHHHnA4VkflbI2x0LDLKVxiEbimEMtqRYe5_XIvPqVZEW32vBQjIIu7RXo91Ey_Cqx5OLudE6OjI2uik89epcuiHM0z_-qbe8XpNSAftxWTm-zFsW9L3Z44sO1VWj0cYY65USVAYh77dosZvmm7z0xZPoaYl
 #EXTINF:-1 tvg-name="Tv25" tvg-logo="https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9lNWU0YmY2OC1iNjgzLTQ1NWMtYTQzZi00YmZmYWFiYTcyYTguanBn.jpg" group-title="Georgia",Tv25
 https://tbs01-edge11.itdc.ge/tv25/tracks-v1a1/mono.m3u8?token=2f_dIndTb1b624DimUXJWvVRqOGf4DGf4768mKQbkYG3R3dMBCEdDbWUSEYahv5pL69rVhZMTvagJtTgvKnAm9L6CrDHTc3DQxB-6Nwvg7K8T2WWWsohdOEIM9nWc3Ala1-0YLvTGUDjpCPlFDwA6pToEZhuqpqsIYJjV6kyiFiGYehnJXd2bg0bTLw4QyyRnczKS-diesNnp51l2kG4UUnQXeTEhNFLMXnUeWhJk71ouXXlChNrG8rJeyOq1MX4WYbyD2hW8GmJL0nRt0NrNwyx5OYjSnM8GJhJQOFP0uvD87yXWJqUFfVVknwJER4p
-
